@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "LScHDEJ+viHCcqdsvbnLqrKT+iW8eCwl8XKDyIZW8qY=",
+  "Source": "WorkWithFiles.Api",
+  "BasePath": "_content/WorkWithFiles.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WorkWithFiles.Api\\wwwroot",
+      "Source": "WorkWithFiles.Api",
+      "ContentRoot": "C:\\Users\\Ahmed\\Desktop\\WorkWithFile\\SocialApi\\wwwroot\\",
+      "BasePath": "_content/WorkWithFiles.Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
