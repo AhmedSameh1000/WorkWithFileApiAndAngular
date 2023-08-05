@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "LScHDEJ+viHCcqdsvbnLqrKT+iW8eCwl8XKDyIZW8qY=",
+  "Hash": "32sodueeDpzu39vAucbfSqYq4b1kftgr4b+xoechxKo=",
   "Source": "WorkWithFiles.Api",
   "BasePath": "_content/WorkWithFiles.Api",
   "Mode": "Default",
@@ -10,10 +10,28 @@
     {
       "Name": "WorkWithFiles.Api\\wwwroot",
       "Source": "WorkWithFiles.Api",
-      "ContentRoot": "C:\\Users\\Ahmed\\Desktop\\WorkWithFile\\SocialApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\WorkWithFileApiAndAngular\\WorkWithFileApi\\SocialApi\\wwwroot\\",
       "BasePath": "_content/WorkWithFiles.Api",
       "Pattern": "**"
     }
   ],
-  "Assets": []
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Administrator\\Desktop\\WorkWithFileApiAndAngular\\WorkWithFileApi\\SocialApi\\wwwroot\\images\\6fe639dd-fb7d-49a4-aca9-95ac9834701e.jpg",
+      "SourceId": "WorkWithFiles.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\WorkWithFileApiAndAngular\\WorkWithFileApi\\SocialApi\\wwwroot\\",
+      "BasePath": "_content/WorkWithFiles.Api",
+      "RelativePath": "images/6fe639dd-fb7d-49a4-aca9-95ac9834701e.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\6fe639dd-fb7d-49a4-aca9-95ac9834701e.jpg"
+    }
+  ]
 }

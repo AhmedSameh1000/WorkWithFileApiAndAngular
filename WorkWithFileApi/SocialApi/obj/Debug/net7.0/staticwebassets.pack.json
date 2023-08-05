@@ -1,24 +1,24 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Ahmed\\Desktop\\WorkWItImages\\SocialApi\\SocialApi\\wwwroot\\imagesprofile\\Empty.jpg",
-      "PackagePath": "staticwebassets\\imagesprofile\\Empty.jpg"
+      "Id": "C:\\Users\\Administrator\\Desktop\\WorkWithFileApiAndAngular\\WorkWithFileApi\\SocialApi\\wwwroot\\images\\6fe639dd-fb7d-49a4-aca9-95ac9834701e.jpg",
+      "PackagePath": "staticwebassets\\images\\6fe639dd-fb7d-49a4-aca9-95ac9834701e.jpg"
     },
     {
-      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.SocialApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.WorkWithFiles.Api.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.SocialApi.props",
-      "PackagePath": "build\\SocialApi.props"
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.WorkWithFiles.Api.props",
+      "PackagePath": "build\\WorkWithFiles.Api.props"
     },
     {
-      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.SocialApi.props",
-      "PackagePath": "buildMultiTargeting\\SocialApi.props"
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.WorkWithFiles.Api.props",
+      "PackagePath": "buildMultiTargeting\\WorkWithFiles.Api.props"
     },
     {
-      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.SocialApi.props",
-      "PackagePath": "buildTransitive\\SocialApi.props"
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.WorkWithFiles.Api.props",
+      "PackagePath": "buildTransitive\\WorkWithFiles.Api.props"
     }
   ],
   "ElementsToRemove": []
